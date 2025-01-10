@@ -40,4 +40,12 @@ Enter the number (or -1 to quit): 6
 Correct!
 ```
 
-![image of vscode](if1-sem2-docs.png)
+![image of vscode]
+
+## Technical Documentation
+
+To clone the repository:
+
+```bash
+git clone git@github.com:EDGENortheastern/if2-seminar2.git
+```
