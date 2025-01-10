@@ -6,8 +6,6 @@ The Emoji Counting Game is a simple and interactive terminal-based game designed
 
 ## User Guide
 
-## Welcome to the Emoji Counting Game!
-
 This game is a fun and simple way to practice counting. You'll see a random set of emojis displayed on the screen, and your goal is to count them and enter the correct number. But hurry—you're racing against the clock, with only 30 seconds to play!
 
 ### Features
