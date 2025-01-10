@@ -1,4 +1,4 @@
-# Emoji Counting Game Documentation
+# Emoji Counting Game Documentation 🌟
 
 ## Introduction
 
