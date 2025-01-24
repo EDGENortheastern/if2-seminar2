@@ -17,6 +17,6 @@ class TestGameLogic(unittest.TestCase):
         self.assertTrue(check_answer(5, 5))  # Correct input
         self.assertFalse(check_answer(3, 5))  # Incorrect input
 
-# This ensures the tests don't accidentally trigger gameplay
+# Ensure the tests run only when this file is executed directly
 if __name__ == "__main__":
     unittest.main()
